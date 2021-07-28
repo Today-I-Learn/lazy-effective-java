@@ -15,7 +15,7 @@
 
 <br>
 
-### 목록  <img src="https://img.shields.io/badge/-6/90-gray"><br> 
+### 목록  <img src="https://img.shields.io/badge/-9/90-gray"><br> 
 
 #### 2장 객체 생성과 파괴
 - [ ] 아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라
